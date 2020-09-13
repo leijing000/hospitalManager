@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/develop/apache-tomcat-8.0.32-windows-x64/apache-tomcat-8.0.32/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/poi.jar/poi-3.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
